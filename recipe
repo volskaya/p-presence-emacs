@@ -1,0 +1,4 @@
+(presence-mode
+ :fetcher github
+ :repo "volskaya/presence-mode"
+ :files ("*.el" "presence"))
